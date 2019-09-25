@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\SobreCarga-P2\SobreCarga-P2\bin\Debug\SobreCarga-P2.exe.config
+C:\Users\lyss_\source\repos\SobreCarga-P2\SobreCarga-P2\bin\Debug\SobreCarga-P2.exe
+C:\Users\lyss_\source\repos\SobreCarga-P2\SobreCarga-P2\bin\Debug\SobreCarga-P2.pdb
+C:\Users\lyss_\source\repos\SobreCarga-P2\SobreCarga-P2\obj\Debug\SobreCarga-P2.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\SobreCarga-P2\SobreCarga-P2\obj\Debug\SobreCarga-P2.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\SobreCarga-P2\SobreCarga-P2\obj\Debug\SobreCarga-P2.exe
+C:\Users\lyss_\source\repos\SobreCarga-P2\SobreCarga-P2\obj\Debug\SobreCarga-P2.pdb
